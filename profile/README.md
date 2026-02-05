@@ -1,27 +1,15 @@
-# 🎵 Oscilot
+# Oscilot
 
-Welcome to **Oscilot** - Building the future of music platforms.
+A dedicated streaming platform for AI-generated audio.
 
-## About Us
+## About
 
-We're creating innovative solutions for music creators, listeners, and industry professionals. Our platform aims to revolutionize how people experience and interact with music.
+Oscilot is building a specialized streaming service designed specifically for AI-generated music and audio content. We're creating a platform where creators and listeners can discover, share, and enjoy the latest in AI audio technology.
 
-## 🎯 Our Mission
+## What We're Building
 
-To empower musicians and music lovers with cutting-edge technology that enhances creativity, discovery, and connection.
+- Streaming infrastructure optimized for AI-generated content
+- Discovery tools for AI audio creators and listeners
+- High-quality playback and delivery systems
 
-## 🚀 What We're Building
-
-A comprehensive music platform that brings together:
-- Music creation and collaboration tools
-- Enhanced listening experiences
-- Community features for artists and fans
-- Industry-leading audio technology
-
-## 📫 Get in Touch
-
-Stay tuned for updates as we build something amazing for the music community!
-
----
-
-*Building the future of music, one note at a time* 🎶
+Stay tuned for updates as we develop the platform.
