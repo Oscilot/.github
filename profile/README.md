@@ -1,3 +1,3 @@
 # Oscilot
 
-🚧 Under Construction 🚧
+No BS Chat platform.
